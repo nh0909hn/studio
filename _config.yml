@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        NH Studio Official Website
+tagline:      Trang web chính thức của NH Studio
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "vi"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       NH Studio
+  url:        https://nhstudiovn.xyz
 
 # Gems
 gems:
