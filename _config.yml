@@ -16,3 +16,5 @@ gems:
 
 #Others
 markdown: kramdown
+
+permalink: /404.html
