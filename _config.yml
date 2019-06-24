@@ -13,7 +13,11 @@ author:
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll-seo-tag
 
-#Others
+# Others
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
